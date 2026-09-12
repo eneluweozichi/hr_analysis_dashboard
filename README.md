@@ -1,105 +1,159 @@
 # HR Analysis Dashboard
+![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
 
 ## Project Overview
-This project analyzes employee data to uncover insights into workforce composition, employee attrition, job satisfaction, salary distribution, and employee experience.
 
-An interactive Power BI dashboard was developed to transform raw HR data into meaningful visual insights that can help HR teams and decision-makers understand workforce patterns and identify areas that may require attention.
+This project focuses on analyzing employee data to understand workforce composition, employee attrition, job satisfaction, salary distribution, and employee experience.
+
+Using Microsoft Power BI, I transformed HR data into an interactive dashboard that provides a clear view of key workforce metrics and allows users to explore employee patterns across different departments.
+
+The dashboard is designed to support data-driven HR decision-making by making workforce trends and employee-related metrics easier to understand and analyze.
 
 ## Project Objective
-The objective of this project is to analyze employee data and answer key HR-related questions, including:
-> How many employees are in the organization?
 
-> What is the current employee attrition rate?
+The primary objective of this project was to analyze employee data and develop an interactive HR dashboard that answers important workforce-related questions.
 
-> Which departments experience the highest attrition?
+### Key questions explored:
 
-> How does attrition vary across salary levels and job roles?
+- What is the total number of employees?
+- How many employees are currently active?
+- What is the employee attrition count and attrition rate?
+- How is the workforce distributed across departments?
+- Which job roles have higher employee representation and attrition?
+- How is employee attrition distributed across salary slabs?
+- How does job satisfaction vary across employees?
+- What does the workforce age distribution look like?
+- How is the workforce distributed by gender?
+- How does employee experience vary across the workforce?
 
-> What is the distribution of employees by age and gender?
+---
 
-> How does job satisfaction relate to employee attrition?
+## Key Performance Indicators
 
-> How does employee experience vary across the workforce?
+The dashboard tracks the following KPIs:
 
-> Which areas of the workforce may require further HR attention?
+| KPI | Description |
+|---|---|
+| **Total Employees** | Overall number of employees in the dataset |
+| **Active Employees** | Employees who remain active in the organization |
+| **Attrition Count** | Number of employees who have left the organization |
+| **Attrition Rate** | Percentage of employees who have left |
+| **Average Age** | Average age of employees |
+| **Average Experience** | Average years of employee experience |
 
-## Key Performance Indicators (KPIs)
-The dashboard provides an overview of key workforce metrics, including:
-
-> Total Employees
-
-> Active Employees
-
-> Attrition Count
-
-> Attrition Rate (%)
-
-> Average Age
-
-> Average Experience
-These KPIs provide a high-level view of the organization’s workforce and employee retention status.
+---
 
 ## Dashboard Analysis
-1. Attrition Analysis
-Analyzed employee attrition across different organizational dimensions, including:
-> Department
 
-> Salary slab
+### Workforce Analysis
 
-> Job role
+The dashboard provides an overview of the organization's workforce using:
 
-> Job satisfaction
-This helps identify patterns in employee turnover and areas where attrition may be more concentrated.
+- Employee count by department
+- Employee distribution by gender
+- Employee distribution by age group
+- Employee experience trends
+- Job role distribution
 
-2. Workforce Demographics
-Examined the composition of the workforce across:
-> Age groups
+### Attrition Analysis
 
-> Gender
+Employee attrition was analyzed across multiple dimensions, including:
 
-> Department
+- Department
+- Salary slab
+- Job role
+- Job satisfaction
 
-> Job roles
-This provides a clearer understanding of the organization’s employee structure.
+This allows users to explore where employee turnover is concentrated and investigate potential workforce patterns.
 
-3. Salary Analysis
-Analyzed employee distribution across different salary slabs to understand how workforce composition varies across compensation levels.
+### Salary Analysis
 
-4. Job Satisfaction
-Explored employee job satisfaction levels and their relationship with attrition to identify potential workforce retention patterns.
+Employees were analyzed across different salary slabs to understand the distribution of the workforce across compensation levels and examine how salary categories relate to attrition.
 
-5. Experience Analysis
-Analyzed employee experience and experience trends to understand the composition of the workforce based on years of experience.
+### Job Satisfaction Analysis
 
-## Key Insights
-The analysis provides an interactive view of employee patterns and allows users to explore workforce metrics across different departments.
+Job satisfaction was analyzed alongside employee attrition to provide a better understanding of workforce retention patterns.
 
-Users can filter the dashboard by department to examine how workforce size, attrition, salary, satisfaction, demographics, and experience vary across different areas of the organization.
+### Experience Analysis
 
-The dashboard is designed to help decision-makers move beyond overall employee counts and investigate the factors associated with workforce retention and attrition.
+Employee experience was examined to understand the composition of the workforce across different levels of professional experience.
 
-## Business Value
-This analysis demonstrates how HR data can be transformed into actionable information for decision-making.
+---
 
-The dashboard can support HR teams in:
-> Monitoring employee attrition
+## Interactive Features
 
-> Identifying departments with higher turnover
+The dashboard includes interactive filtering that allows users to:
 
-> Understanding workforce demographics
+- Filter the analysis by **department**
+- Explore workforce metrics dynamically
+- Compare employee patterns across different categories
+- Drill into specific areas of the workforce
 
-> Examining salary distribution
-
-> Monitoring employee satisfaction
-
-> Understanding workforce experience
-
-> Supporting data-driven workforce planning
+---
 
 ## Tools & Technologies
-> Microsoft Power BI — Analysis, dashboard development and data visualization
 
-> Power Query — Data preparation, cleaning, and transformation
+- **Microsoft Power BI** — Data visualization and dashboard development
+- **Power Query** — Data cleaning and transformation
+- **Microsoft Excel / CSV** — Dataset and data preparation
+
+---
+
+## Data Analysis Process
+
+The project followed a structured data analytics workflow:
+
+**Raw Data → Data Cleaning → Data Transformation → Analysis → KPI Development → Visualization → Insights**
+
+### 1. Data Preparation
+Reviewed and prepared the HR dataset for analysis.
+
+### 2. Data Cleaning & Transformation
+Used Power Query to prepare the data for visualization and analysis.
+
+### 3. Data Analysis
+Analyzed employee demographics, attrition, salary, job satisfaction, job roles, departments, and experience.
+
+### 4. KPI Development
+Created key workforce metrics to provide a high-level overview of employee performance and retention.
+
+### 5. Dashboard Development
+Designed an interactive Power BI dashboard that presents the analysis in an easy-to-understand format.
+
+---
+
+## Business Value
+
+HR analytics can help organizations move from simply tracking employee numbers to understanding workforce patterns.
+
+This dashboard can support HR teams and decision-makers in:
+
+- Monitoring employee attrition
+- Understanding workforce composition
+- Identifying departments requiring further investigation
+- Examining salary distribution
+- Monitoring employee satisfaction
+- Understanding workforce experience
+- Supporting data-driven workforce planning
+
+---
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Analysis
+- Data Visualization
+- KPI Development
+- Dashboard Development
+- Power BI
+- Power Query
+- HR Analytics
+- Business Intelligence
+- Data Storytelling
+- Interactive Reporting
+
+---
 
 ## Project Contents
 ```text
@@ -111,31 +165,12 @@ hr_analysis_Dashboard/
 └── dataset/
     └── HR_Analytics_Dataset.csv
 
-```    
+```
+  
 ## Dashboard Preview
 ### Executive Overview
 ![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
 
-## Skills Demonstrated
-> Data Cleaning
-
-> Data Transformation
-
-> Data Analysis
-
-> Data Visualization
-
-> KPI Development
-
-> Dashboard Design
-
-> HR Analytics
-
-> Business Intelligence
-
-> Data Storytelling
-
-> Interactive Reporting
 
 ## Project Outcome
 This project demonstrates my ability to take structured employee data, analyze workforce patterns, develop meaningful KPIs, and communicate insights through an interactive Power BI dashboard.
