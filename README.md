@@ -114,7 +114,7 @@ hr_analysis_Dashboard/
 ```    
 ## Dashboard Preview
 ### Executive Overview
-![HR Analytics Dashboard] (HR_Analytics_Dashboard.png)
+![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
 
 ## Skills Demonstrated
 > Data Cleaning
