@@ -8,12 +8,19 @@ An interactive Power BI dashboard was developed to transform raw HR data into me
 # Project Objective
 The objective of this project is to analyze employee data and answer key HR-related questions, including:
 > How many employees are in the organization?
+
 > What is the current employee attrition rate?
+
 > Which departments experience the highest attrition?
+
 > How does attrition vary across salary levels and job roles?
+
 > What is the distribution of employees by age and gender?
+
 > How does job satisfaction relate to employee attrition?
+
 > How does employee experience vary across the workforce?
+
 > Which areas of the workforce may require further HR attention?
 
 # Key Performance Indicators (KPIs)
