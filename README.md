@@ -27,10 +27,15 @@ The objective of this project is to analyze employee data and answer key HR-rela
 The dashboard provides an overview of key workforce metrics, including:
 
 > Total Employees
+
 > Active Employees
+
 > Attrition Count
+
 > Attrition Rate (%)
+
 > Average Age
+
 > Average Experience
 These KPIs provide a high-level view of the organization’s workforce and employee retention status.
 
@@ -38,16 +43,22 @@ These KPIs provide a high-level view of the organization’s workforce and emplo
 1. Attrition Analysis
 Analyzed employee attrition across different organizational dimensions, including:
 > Department
+
 > Salary slab
+
 > Job role
+
 > Job satisfaction
 This helps identify patterns in employee turnover and areas where attrition may be more concentrated.
 
 2. Workforce Demographics
 Examined the composition of the workforce across:
 > Age groups
+
 > Gender
+
 > Department
+
 > Job roles
 This provides a clearer understanding of the organization’s employee structure.
 
@@ -72,15 +83,22 @@ This analysis demonstrates how HR data can be transformed into actionable inform
 
 The dashboard can support HR teams in:
 > Monitoring employee attrition
+
 > Identifying departments with higher turnover
+
 > Understanding workforce demographics
+
 > Examining salary distribution
+
 > Monitoring employee satisfaction
+
 > Understanding workforce experience
+
 > Supporting data-driven workforce planning
 
 # Tools & Technologies
 > Microsoft Power BI — Analysis, dashboard development and data visualization
+
 > Power Query — Data preparation, cleaning, and transformation
 
 # Project Contents
@@ -99,14 +117,23 @@ hr_analysis_Dashboard/
 
 # Skills Demonstrated
 > Data Cleaning
+
 > Data Transformation
+
 > Data Analysis
+
 > Data Visualization
+
 > KPI Development
+
 > Dashboard Design
+
 > HR Analytics
+
 > Business Intelligence
+
 > Data Storytelling
+
 > Interactive Reporting
 
 # Project Outcome
