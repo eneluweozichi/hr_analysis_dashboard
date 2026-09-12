@@ -77,6 +77,7 @@ Microsoft Power BI — Analysis, dashboard development and data visualization
 Power Query — Data preparation, cleaning, and transformation
 
 # Project Contents
+```text
 hr_analysis_Dashboard/
 │
 ├── README.md
