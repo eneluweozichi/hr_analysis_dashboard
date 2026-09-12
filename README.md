@@ -1,11 +1,11 @@
 # HR Analysis Dashboard
 
-# Project Overview
+## Project Overview
 This project analyzes employee data to uncover insights into workforce composition, employee attrition, job satisfaction, salary distribution, and employee experience.
 
 An interactive Power BI dashboard was developed to transform raw HR data into meaningful visual insights that can help HR teams and decision-makers understand workforce patterns and identify areas that may require attention.
 
-# Project Objective
+## Project Objective
 The objective of this project is to analyze employee data and answer key HR-related questions, including:
 > How many employees are in the organization?
 
@@ -23,7 +23,7 @@ The objective of this project is to analyze employee data and answer key HR-rela
 
 > Which areas of the workforce may require further HR attention?
 
-# Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 The dashboard provides an overview of key workforce metrics, including:
 
 > Total Employees
@@ -39,7 +39,7 @@ The dashboard provides an overview of key workforce metrics, including:
 > Average Experience
 These KPIs provide a high-level view of the organization’s workforce and employee retention status.
 
-# Dashboard Analysis
+## Dashboard Analysis
 1. Attrition Analysis
 Analyzed employee attrition across different organizational dimensions, including:
 > Department
@@ -71,14 +71,14 @@ Explored employee job satisfaction levels and their relationship with attrition 
 5. Experience Analysis
 Analyzed employee experience and experience trends to understand the composition of the workforce based on years of experience.
 
-# Key Insights
+## Key Insights
 The analysis provides an interactive view of employee patterns and allows users to explore workforce metrics across different departments.
 
 Users can filter the dashboard by department to examine how workforce size, attrition, salary, satisfaction, demographics, and experience vary across different areas of the organization.
 
 The dashboard is designed to help decision-makers move beyond overall employee counts and investigate the factors associated with workforce retention and attrition.
 
-# Business Value
+## Business Value
 This analysis demonstrates how HR data can be transformed into actionable information for decision-making.
 
 The dashboard can support HR teams in:
@@ -96,12 +96,12 @@ The dashboard can support HR teams in:
 
 > Supporting data-driven workforce planning
 
-# Tools & Technologies
+## Tools & Technologies
 > Microsoft Power BI — Analysis, dashboard development and data visualization
 
 > Power Query — Data preparation, cleaning, and transformation
 
-# Project Contents
+## Project Contents
 ```text
 hr_analysis_Dashboard/
 │
@@ -112,10 +112,11 @@ hr_analysis_Dashboard/
     └── HR_Analytics_Dataset.csv
 
 ```    
-# Dashboard Preview
-## Executive Overview
+## Dashboard Preview
+### Executive Overview
+![HR Analytics Dashboard] (HR_Analytics_Dashboard.png)
 
-# Skills Demonstrated
+## Skills Demonstrated
 > Data Cleaning
 
 > Data Transformation
@@ -136,12 +137,12 @@ hr_analysis_Dashboard/
 
 > Interactive Reporting
 
-# Project Outcome
+## Project Outcome
 This project demonstrates my ability to take structured employee data, analyze workforce patterns, develop meaningful KPIs, and communicate insights through an interactive Power BI dashboard.
 
 It also showcases my ability to approach business questions analytically and present data in a format that can support informed decision-making.
 
-# Author
+## Author
 Ozichi Eneluwe
 
 Entry-Level Data Analyst | Power BI | Excel | SQL
