@@ -84,7 +84,7 @@ hr_analysis_Dashboard/
 ├── HR_Analytics_Dashboard.pbix
 ├── HR_Analytics_Dashboard.png
 └── dataset/
-    └── HR_Analytics_Dataset.csv
+    └── HR_Analytics_Dataset.csv ```
     
 # Dashboard Preview
 ## Executive Overview
